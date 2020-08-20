@@ -1,7 +1,8 @@
 ### Hi Alejandro Troncoso 👋
 
 Mis Redes:
-computer Blog personal - projects - tools
+* Blog personal - projects - tools https://www.altsys.es - automatic!
+
 
 <!--
 **founds/founds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
