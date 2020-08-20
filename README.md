@@ -1,7 +1,7 @@
 ### Hi Alejandro Troncoso 👋
 
 Mis Redes:
-* Blog personal - projects - tools https://www.altsys.es - automatic!
+* Blog personal - projects - tools: https://www.altsys.es
 
 
 <!--
