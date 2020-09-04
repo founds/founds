@@ -1,4 +1,4 @@
-### Hi Alejandro Troncoso 👋
+### Hi! I'm Alejandro Troncoso 👋
 
 Mis Redes:
 * Blog personal - projects - tools: https://www.altsys.es
